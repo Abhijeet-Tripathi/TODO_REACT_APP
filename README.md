@@ -1,3 +1,54 @@
+# TODO App
+(https://652fbf4e14553519472472ba--unrivaled-khapse-487c83.netlify.app/)
+This is a simple TODO app built using React that allows users to add, edit, and delete tasks.
+
+## Features
+
+- Add new tasks to your TODO list.
+- Mark tasks as completed.
+- Edit the content of existing tasks.
+- Delete tasks you no longer need.
+
+## Getting Started
+
+To run this project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/todo-app.git
+   
+2. Navigate to the project directory:
+    
+    cd todo-app
+    
+3. Install the required dependencies:
+    
+    npm install
+    
+4. Start the development server:
+    
+    npm start
+    
+5. Open your web browser and go to http://localhost:3000 to use the TODO app
+    
+
+Usage
+Add a new task by entering the task description and clicking the "Add Task" button.
+To mark a task as completed, click the checkbox next to the task.
+To edit a task, click the "Edit" icon. Note that you cannot edit completed tasks.
+To delete a task, click the "Delete" icon.
+Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature or bug fix.
+Make your changes and commit them.
+Push your changes to your fork.
+Open a pull request.
+
+#Below are given some Common Knowledge on Npm Commands, Feel free to give it a read.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
