@@ -1,0 +1,40 @@
+.itemContainer{
+    position: relative;
+    margin-top: 25px;
+    left:8%;
+    margin-bottom: -25px;;
+}
+
+.itemContainer input{
+    font-size: 1.45rem;
+    border-radius: 5px;
+    padding: 5px;
+    width:60%;
+    margin-left: -14px;
+}
+
+/* .itemContainer button{
+    font-size: 1.35rem;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius:15px;
+    margin-left: -10px;
+    padding: 5px;
+    width:20%;
+} */
+.itemContainer button {
+    font-size: 1.39rem;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-left: -10px;
+    padding: 5px;
+    min-width: 10px; /* Set a minimum width for the button to prevent text overflow */
+    /* overflow: hidden; Hide any overflow content */
+    /* white-space: nowrap; Prevent the text from wrapping */
+    /* text-overflow: ellipsis; Show ellipsis if text overflows */
+    /* width: auto; Let the button size adjust to content */
+}
+
+
+.itemContainer button:hover{
+cursor: pointer;
+}

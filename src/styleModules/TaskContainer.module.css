@@ -1,0 +1,11 @@
+.container {
+  background-color: rgb(40, 133, 102);
+  width: 60vw;
+  min-height: 100px; /* minimum height to ensure the container doesn't collapse */
+  border: 2px solid white;
+  border-radius: 15px;
+  display: flex; /* flexbox for flexible height behavior */
+  flex-direction: column; /* Stack the children vertically */
+  margin-top: 20px; /* the top margin */
+  margin-left: 20%;
+}
